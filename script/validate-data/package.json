@@ -1,0 +1,7 @@
+{
+  "name": "validate-bwr",
+  "version": "0.1.0",
+  "dependencies": {
+    "validate-data": "^0.0.2"
+  }
+}
